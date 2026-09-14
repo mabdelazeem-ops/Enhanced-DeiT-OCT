@@ -1,0 +1,7 @@
+{
+  "temperature": 3.0,
+  "alpha_student_loss": 0.5,
+  "beta_distillation_loss": 0.5,
+  "sdma_alignment_weight": 0.1,
+  "ema_decay": 0.999
+}
